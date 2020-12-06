@@ -1,4 +1,4 @@
-# Exam-QCM-Correction-Using-Square-detection
+# Exam-QCM-Correction-Using-Square-detection OCR CV2
 This project is Python coded using square detection and calculate Exam final result based on right answers colored as black square.
 
 Librairies used : 
